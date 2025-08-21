@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **MongoDB, CQRS, Clean Architecture**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **C#, MVC, Entity Framework, MongoDB**  
-- 📫 How to reach me: **erkutcakar@example.com** *(replace with real email)*  
+- 📫 How to reach me: **erkutcakar@gmail.com** *(replace with real email)*  
 - ⚡ Fun fact: I love turning ideas into real projects 💡  
 
 ---
