@@ -48,19 +48,16 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<!-- .NET ile ilgili animasyon -->
+<!-- Tech Stack altına animasyonlar -->
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt=".NET Animation" />
 </p>
 
----
-
-### 📊 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight" alt="GitHub streak" height="150"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Backend Animation" />
 </p>
+
 
 ---
 
