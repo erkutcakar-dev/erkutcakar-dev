@@ -1,10 +1,15 @@
 <h1 align="center">Hi there, I'm Erkut 👋</h1>
 
-<!-- Üstte yazı animasyonu -->
+<!-- Yazı animasyonu (senin attığın SVG) -->
 <p align="center">
   <a href="https://github.com/erkutcakar-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Bilgisayar başında yazı yazan animasyon -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
 </p>
 
 ---
@@ -43,7 +48,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<!-- Tek ve etkileyici animasyon -->
+<!-- Tek ve kaliteli animasyon -->
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt=".NET Developer Animation" />
 </p>
