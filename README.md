@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Erkut 👋</h1>
 
-<!-- Hareketli Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
-</p>
-
-<!-- Yazı Animasyonu -->
+<!-- Üstte yazı animasyonu -->
 <p align="center">
   <a href="https://github.com/erkutcakar-dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
@@ -48,16 +43,19 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<!-- Tech Stack altına animasyonlar -->
+<!-- Tek ve etkileyici animasyon -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation" />
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt=".NET Animation" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt=".NET Developer Animation" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Backend Animation" />
-</p>
+---
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight" alt="GitHub streak" height="150"/>
+</p>
 
 ---
 
