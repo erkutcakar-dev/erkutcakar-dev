@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Erkut 👋</h1>
 
-<!-- Typing SVG -->
+<!-- Yazı animasyonu (senin attığın SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
+  <a href="https://github.com/erkutcakar-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
+  </a>
 </p>
 
 <!-- Bilgisayar başında yazı yazan animasyon -->
@@ -17,7 +19,7 @@
 - 🌱 I’m currently learning **MongoDB, CQRS, Clean Architecture**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 💬 Ask me about **C#, MVC, Entity Framework, MongoDB**  
-- 📫 How to reach me: **erkutcakar@example.com**  
+- 📫 How to reach me: **erkutcakar@example.com** *(replace with real email)*  
 - ⚡ Fun fact: I love turning ideas into real projects 💡  
 
 ---
@@ -30,15 +32,6 @@
   </a>
   <a href="https://www.instagram.com/erkut.cakar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/erkut_cakar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/erkut_cakar" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://dev.to/erkutcakar" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
@@ -55,7 +48,7 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<!-- Tek kaliteli animasyon -->
+<!-- Tek ve kaliteli animasyon -->
 <p align="center">
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="500" alt=".NET Developer Animation" />
 </p>
@@ -65,8 +58,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight" alt="GitHub streak" height="150"/>
 </p>
 
 ---
@@ -75,15 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### 📌 Pinned Projects  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=HotelsAPI&theme=tokyonight" width="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=DictionaryProject&theme=tokyonight" width="220"/>
 </p>
 
 ---
