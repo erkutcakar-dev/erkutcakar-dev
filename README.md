@@ -1,8 +1,14 @@
 <h1 align="center">Hi there, I'm Erkut 👋</h1>
 
+<!-- Hareketli Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Animation" />
+</p>
+
+<!-- Yazı Animasyonu -->
 <p align="center">
   <a href="https://github.com/erkutcakar-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Software+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Projects;Always+Learning+New+Techs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;Backend+%26+Fullstack+Developer;Always+Learning+New+Techs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,6 +24,19 @@
 
 ---
 
+### 🌐 Connect with Me  
+
+<p>
+  <a href="https://www.linkedin.com/in/erkut-cakar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/erkut.cakar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
 <p>
@@ -27,6 +46,11 @@
   <img src="https://img.shields.io/badge/Entity%20Framework-5C2D91?style=for-the-badge&logo=entity-framework&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<!-- .NET ile ilgili animasyon -->
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="400" alt=".NET Animation" />
 </p>
 
 ---
@@ -40,6 +64,14 @@
 
 ---
 
+### 📌 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 🌍 Visitors  
 ![Visitor Count](https://komarev.com/ghpvc/?username=erkutcakar-dev&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -47,12 +79,6 @@
 
 ### 📈 Contribution Graph  
 [![Erkut's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erkutcakar-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📌 Pinned Projects  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=HotelsAPI&theme=tokyonight)](https://github.com/erkutcakar-dev/HotelsAPI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=DictionaryProject&theme=tokyonight)](https://github.com/erkutcakar-dev/DictionaryProject)
 
 ---
 
