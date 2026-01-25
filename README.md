@@ -127,9 +127,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight" alt="GitHub streak" height="150"/>
+  
 </p>
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erkutcakar-dev&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
 ---
 
 ### 📌 Most Used Languages  
