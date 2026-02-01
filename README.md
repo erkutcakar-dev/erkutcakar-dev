@@ -123,8 +123,10 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ### 📌 Most Used Languages
