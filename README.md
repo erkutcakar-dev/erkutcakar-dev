@@ -125,14 +125,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=erkutcakar-dev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=erkutcakar-dev&theme=tokyonight" height="150"/>
 </p>
 
 ### 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=3600" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
