@@ -126,7 +126,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=erkutcakar-dev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+ 
 </p>
 
 ### 📌 Most Used Languages
