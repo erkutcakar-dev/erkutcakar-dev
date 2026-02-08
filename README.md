@@ -1,7 +1,22 @@
 <!-- HEADER -->
-<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=230&section=header&text=Erkut%20Çakar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=.NET%20Developer%20|%20Mobile%20%26%20Web%20|%20Cross-Platform%20Builder&descSize=20&descAlignY=56&descColor=ffffff)
+<h1 align="center">Hi there, I'm Erkut 👋</h1>
+
+<!-- Yazı animasyonu -->
+<p align="center">
+  <a href="https://github.com/erkutcakar-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=.NET+Developer;C%23+%7C+ASP.NET+%7C+MVC;.NET+MAUI+Mobile+Developer;Backend+%26+Fullstack+Developer;Cross-Platform+App+Creator;Always+Learning+New+Techs" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- .NET MAUI ve Mobile Development vurgusu -->
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Apps-512BD4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cross--Platform-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+<div align="center">
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Merhaba%2C+Ben+Erkut;.NET+%26+.NET+MAUI+Developer;Cross-Platform+Mobile+%26+Backend+Engineer;MongoDB+%7C+CQRS+%7C+Clean+Architecture;Her+G%C3%BCn+Yeni+Bir+%C5%9Eey+%C3%96%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG" /></a>
