@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,12,18&height=200&section=header&text=Erkut%20Çakar&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=.NET%20Developer%20|%20Mobile%20%26%20Web%20|%20Cross-Platform%20Builder&descSize=18&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=230&section=header&text=Erkut%20Çakar&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=33&desc=.NET%20Developer%20|%20Mobile%20%26%20Web%20|%20Cross-Platform%20Builder&descSize=20&descAlignY=56&descColor=ffffff)
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&random=false&width=620&lines=%F0%9F%91%8B+Merhaba%2C+Ben+Erkut;.NET+%26+.NET+MAUI+Developer;Cross-Platform+Mobile+%26+Backend+Engineer;MongoDB+%7C+CQRS+%7C+Clean+Architecture;Her+G%C3%BCn+Yeni+Bir+%C5%9Eey+%C3%96%C4%9Freniyorum+%F0%9F%9A%80" alt="Typing SVG" /></a>
@@ -16,8 +16,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=erkutcakar-dev&color=00cfff&style=for-the-badge&label=VISITORS)](https://github.com/erkutcakar-dev)
 
 </div>
-
----
 
 <!-- ABOUT ME -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Hakkımda
@@ -44,7 +42,7 @@
 <div align="center">
 
 ### 💻 Backend & API
-<img src="https://skillicons.dev/icons?i=cs,dotnet,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
 <br>
 <p>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -95,16 +93,16 @@
 <div align="center">
 
 <a href="https://github.com/erkutcakar-dev/EmailChatProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=EmailChatProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=erkutcakar-dev&repo=EmailChatProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
 </a>
 <a href="https://github.com/erkutcakar-dev/DapperSoon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=DapperSoon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=erkutcakar-dev&repo=DapperSoon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
 </a>
 <a href="https://github.com/erkutcakar-dev/Hangman-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=Hangman-Game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=erkutcakar-dev&repo=Hangman-Game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
 </a>
 <a href="https://github.com/erkutcakar-dev/MvcProjeKampi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=erkutcakar-dev&repo=MvcProjeKampi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-plus-theta.vercel.app/api/pin/?username=erkutcakar-dev&repo=MvcProjeKampi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9" width="49%" />
 </a>
 
 <br><br>
@@ -126,14 +124,14 @@
   <img src="https://img.shields.io/badge/Odak-.NET_&_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-plus-theta.vercel.app/api?username=erkutcakar-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&icon_color=00cfff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=erkutcakar-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00cfff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
 <br><br>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erkutcakar-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00cfff&fire=00cfff&currStreakLabel=00cfff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=erkutcakar-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=00cfff&fire=00cfff&currStreakLabel=00cfff" alt="GitHub Streak"/>
 
 </div>
 
@@ -233,16 +231,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-
-### 💭 Günün Sözü
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
